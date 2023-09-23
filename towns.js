@@ -43,3 +43,5 @@ $('#towns').append($('<option>').text(townName));
 $('#result').text(townName + " added.");
 }
 
+console.log();
+
